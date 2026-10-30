@@ -1,4 +1,4 @@
-# InstantDeathRespawn
+# Instant Death Screen
 
 A Luau plugin for **ReSkate** that triggers an instant black screen and automatic respawn at the last stable point after taking heavy impact damage (falls and head hits).
 
