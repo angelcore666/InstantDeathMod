@@ -1,8 +1,8 @@
 {
   "author": "c0rpsegurl",
-  "name": "Instant Death Screen",
+  "name": "InstantDeathScreen",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/angelcore666/InstantDeathMod",
   "description": "Instant black screen after major damage and respawn at the last checkpoint",
   "dependencies": []
 }
