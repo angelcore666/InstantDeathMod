@@ -1,0 +1,7 @@
+{
+  "name": "Instant Death Screen",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Instant black screen after major damage and respawn at the last checkpoint",
+  "dependencies": []
+}
